@@ -1,61 +1,287 @@
-extends base
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>碎片化时代你最缺的知识管理5招 | Luyh&#39;s Blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="《碎片化时代你最缺的知识管理5招》 是微信“一块听听”的知识管理课程。   碎片化时候的知识管理，重点的不是对承载知识的文档和文章进行管理 ，而是对加工知识的大脑进行管理。 知识管理5招： 体验反思，知识内化 变沙为砖，思维强化 垒砖成塔，构建体系 从网到点，拆为己用 通过读书建立自己的知识体系  体验反思，知识内化（知识内化，改动行动） 实践派知识管理：  一切不改变行动的管理，都是极大的浪费">
+<meta name="keywords" content="摘录笔记">
+<meta property="og:type" content="article">
+<meta property="og:title" content="碎片化时代你最缺的知识管理5招">
+<meta property="og:url" content="http://luyh.github.io/2017/06/30/碎片化时代你最缺的知识管理5招-课堂内容笔记一/index.html">
+<meta property="og:site_name" content="Luyh&#39;s Blog">
+<meta property="og:description" content="《碎片化时代你最缺的知识管理5招》 是微信“一块听听”的知识管理课程。   碎片化时候的知识管理，重点的不是对承载知识的文档和文章进行管理 ，而是对加工知识的大脑进行管理。 知识管理5招： 体验反思，知识内化 变沙为砖，思维强化 垒砖成塔，构建体系 从网到点，拆为己用 通过读书建立自己的知识体系  体验反思，知识内化（知识内化，改动行动） 实践派知识管理：  一切不改变行动的管理，都是极大的浪费">
+<meta property="og:updated_time" content="2017-07-02T06:47:33.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="碎片化时代你最缺的知识管理5招">
+<meta name="twitter:description" content="《碎片化时代你最缺的知识管理5招》 是微信“一块听听”的知识管理课程。   碎片化时候的知识管理，重点的不是对承载知识的文档和文章进行管理 ，而是对加工知识的大脑进行管理。 知识管理5招： 体验反思，知识内化 变沙为砖，思维强化 垒砖成塔，构建体系 从网到点，拆为己用 通过读书建立自己的知识体系  体验反思，知识内化（知识内化，改动行动） 实践派知识管理：  一切不改变行动的管理，都是极大的浪费">
+  
+    <link rel="alternate" href="/atom.xml" title="Luyh&#39;s Blog" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
 
-block title
-  title= page.title + ' | ' + config.title
+</head>
 
-block content
-  .post
-    h1.post-title= page.title
-    .post-meta= page.date.format('ll')
-      if page.categories.length > 0
-        span= ' | '
-        span.category
-          for category in page.categories.toArray()
-            a(href=url_for(category.path))= category.name
-      if theme.busuanzi == true
-        script(src='https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js', async)
-        span#busuanzi_container_page_pv= ' | '
-          span#busuanzi_value_page_pv
-          span= ' ' + __('Hits')
-    if theme.duoshuo
-      a.ds-thread-count(data-thread-key=page.path, href=url_for(page.path) + '#comments')
-    if theme.disqus
-      a.disqus-comment-count(data-disqus-identifier=page.path, href=url_for(page.path) + '#disqus_thread')
-    if theme.gentie
-      a.ds-thread-count(class='cloud-tie-join-count', href=url_for(page.path) + '#comments')
-        span.join-count(style='font-size: 15px; color: #6E7173;') 0
-        span= ' ' + __('Discuss')
-    if theme.changyan
-      a.ds-thread-count(href=url_for(page.path) + '#SOHUCS')
-        span#changyan_count_unit(style='font-size: 15px; color: #6E7173;') 0
-        span= ' ' + __('Comment')
-      script(src='https://assets.changyan.sohu.com/upload/plugins/plugins.count.js', async)
-    if page.toc
-      div(class='clear')
-        div(id='toc' class='toc-article')
-          div(class='toc-title')= __('contents')
-          != toc(page.content, {list_number: theme.toc_number})
-    .post-content
-      != page.content
-    if theme.shareto == true
-      script(type='text/javascript', src=url_for(theme.js) + '/share.js' + '?v=' + theme.version, async)
-      a.article-share-link(data-url='#{page.permalink}', data-id='#{page._id}')= __('shareto')
-    include _partial/tag
-    include _partial/post_nav
-    if theme.duoshuo
-      div(class='ds-share flat' data-thread-key=page.path, data-title=page.title, data-url=page.permalink)
-         .ds-share-inline
-            ul.ds-share-icons-16
-              li(data-toggle='ds-share-icons-more')
-                a(class='ds-more' href='javascript:void(0);') 分享到：
-              li
-                a(class='ds-weibo' href='javascript:void(0);' data-service='weibo') 微博
-              li
-                a(class='ds-qzone' href='javascript:void(0);' data-service='qzone') QQ空间
-              li
-                a(class='ds-qqt' href='javascript:void(0);' data-service='qqt') 腾讯微博
-              li
-                a(class='ds-wechat' href='javascript:void(0);' data-service='wechat') 微信
-            .ds-share-icons-more
-    if page.comments
-      include _partial/comments
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Luyh&#39;s Blog</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">welcome to my blog</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://luyh.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-碎片化时代你最缺的知识管理5招-课堂内容笔记一" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2017/06/30/碎片化时代你最缺的知识管理5招-课堂内容笔记一/" class="article-date">
+  <time datetime="2017-06-30T14:48:00.000Z" itemprop="datePublished">2017-06-30</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/知识管理/">知识管理</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      碎片化时代你最缺的知识管理5招
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <blockquote>
+<p>《碎片化时代你最缺的知识管理5招》 是微信“一块听听”的知识管理课程。</p>
+</blockquote>
+<p> 碎片化时候的知识管理，重点的不是对承载知识的文档和文章进行管理 ，而是对加工知识的大脑进行管理。</p>
+<h1 id="知识管理5招："><a href="#知识管理5招：" class="headerlink" title="知识管理5招："></a>知识管理5招：</h1><ol>
+<li>体验反思，知识内化</li>
+<li>变沙为砖，思维强化</li>
+<li>垒砖成塔，构建体系</li>
+<li>从网到点，拆为己用</li>
+<li>通过读书建立自己的知识体系</li>
+</ol>
+<h1 id="体验反思，知识内化"><a href="#体验反思，知识内化" class="headerlink" title="体验反思，知识内化"></a>体验反思，知识内化</h1><p>（知识内化，改动行动）</p>
+<p>实践派知识管理：</p>
+<blockquote>
+<p>一切不改变行动的管理，都是极大的浪费</p>
+</blockquote>
+<p>怎样提升知识管理中的行动性呢：</p>
+<p>拆书帮的便签学习法：</p>
+<ul>
+<li>A1:联系自己的经验</li>
+<li>A2:规划自己的应用</li>
+</ul>
+<h1 id="变沙为砖，思维强化"><a href="#变沙为砖，思维强化" class="headerlink" title="变沙为砖，思维强化"></a>变沙为砖，思维强化</h1><p>（如何加工信息成知识）<br>碎片化信息和知识的差别</p>
+<ul>
+<li>碎片化信息，只强调观点，不讲原因，不同于知识。</li>
+<li>知识有上下文，讲明前因后果，有适用边界。</li>
+</ul>
+<p>对于碎片化信息，自己补齐碎片化信息的原因，适用边界。<br>将信息（沙子），加工为砖块（知识）：<br>如何追问：<br>（如何提问）</p>
+<ul>
+<li>追问信息的前因后果<ul>
+<li>这么做的原因是什么</li>
+<li>如果这样，会怎样</li>
+<li>如果不这样，会怎样</li>
+</ul>
+</li>
+<li>追问边界条件<ul>
+<li>有没反例</li>
+<li>有不同说法吗</li>
+<li>适用于什么情况</li>
+<li>不同说法有什么差别</li>
+<li>有没类似的信息</li>
+</ul>
+</li>
+</ul>
+<h1 id="垒砖成塔，构建体系"><a href="#垒砖成塔，构建体系" class="headerlink" title="垒砖成塔，构建体系"></a>垒砖成塔，构建体系</h1><p>(知识关联,构建知识体系)</p>
+<blockquote>
+<p>资料井井有条不太重要，把脑中的知识构建为体系非常重要</p>
+</blockquote>
+<p>构建知识体系流程：<br>输入：信息（三个和尚没水喝）<br>加工：追问前引后果<br>加工：追问边界条件<br>  延伸：不类似或者不同的信息/知识（三个臭皮匠，胜过诸葛亮）<br>  连接：建立知识体系<br>内化：<br>  A1:自己的经验<br>  A2:规划未来的应用</p>
+<p>关联：对类似进行同样处理<br>输出：知识体系</p>
+<h1 id="从网到点，拆为己用"><a href="#从网到点，拆为己用" class="headerlink" title="从网到点，拆为己用"></a>从网到点，拆为己用</h1><p>关注的主题，挑选一本书/知识点开始，构建初步的知识体系</p>
+<p>进一步，输入不同的相关信息，进一步完善体系。</p>
+<h1 id="通过读书建立自己的知识体系"><a href="#通过读书建立自己的知识体系" class="headerlink" title="通过读书建立自己的知识体系"></a>通过读书建立自己的知识体系</h1><p>主题阅读：拿几十多本书，进行翻阅和浏览<br>看到和自己想着或着有启发的地方，就对信息进行加工和应用<br>聚沙成砖，再进一步垒砖成搭，建建自己的知识体系</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://luyh.github.io/2017/06/30/碎片化时代你最缺的知识管理5招-课堂内容笔记一/" data-id="cj4y792lx000pnkzen45qvddl" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/摘录笔记/">摘录笔记</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2017/07/09/第2周-付费就是捡便宜/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          第2周-付费就是捡便宜
+        
+      </div>
+    </a>
+  
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2017/07/09/花钱请你读-财富自由之路-阅读说明/">花钱请你读-财富自由之路-阅读说明</a>
+          </li>
+        
+          <li>
+            <a href="/2017/07/09/第0周-开始之前/">第0周-开始之前</a>
+          </li>
+        
+          <li>
+            <a href="/2017/07/09/第1周-你拥有的最宝贵的财富是什么？/">第1周-你拥有的最宝贵的财富是什么？</a>
+          </li>
+        
+          <li>
+            <a href="/2017/07/09/通往财富自由之路-文章汇总/">通往财富自由之路-文章汇总</a>
+          </li>
+        
+          <li>
+            <a href="/2017/07/09/第2周-付费就是捡便宜/">第2周-付费就是捡便宜</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/知识管理/">知识管理</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/财富自由/">财富自由</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/付费/">付费</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/摘录笔记/">摘录笔记</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/目录/">目录</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/请你读书/">请你读书</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/付费/" style="font-size: 10px;">付费</a> <a href="/tags/摘录笔记/" style="font-size: 10px;">摘录笔记</a> <a href="/tags/目录/" style="font-size: 10px;">目录</a> <a href="/tags/请你读书/" style="font-size: 20px;">请你读书</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">July 2017</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">June 2017</a></li></ul>
+    </div>
+  </div>
+
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2017 Luyh<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>
