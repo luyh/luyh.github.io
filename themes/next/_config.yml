@@ -403,7 +403,7 @@ vkontakte_api:
 leancloud_visitors:
   enable: true
   app_id: cX7mDwRjczFlXvB3j5t0OgAt-gzGzoHsz
-  app_key: g49s5pH9yeoUOPkWEqRXXGTk#<app_key>
+  app_key: g49s5pH9yeoUOPkWEqRXXGTk
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
