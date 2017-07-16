@@ -1,6 +1,6 @@
-layout: "post"
-title: "travis_build_hexo"
-date: "2017-07-12 21:29"
+layout: post
+title: travis博客自动部署
+date: 2017-07-12 21:29:00
 ---
 
 将blog设置成两个分支，其中一个分支存储源文件，并设置travis自动部署。
