@@ -211,7 +211,6 @@
           {% endif %}
 
           {% if theme.post_wordcount.wordcount or theme.post_wordcount.min2read %}
-            <div class="post-wordcount">
               {% if theme.post_wordcount.wordcount %}
                 <span class="post-meta-item-icon">
                   <i class="fa fa-file-word-o"></i>
@@ -220,7 +219,7 @@
                   <span class="post-meta-item-text">{{ __('post.wordcount') }}</span>
                 {% endif %}
                 <span title="{{ __('post.wordcount') }}">
-                  {{ wordcount(post.content) }}
+                  {{ wordcount(post.content) }}字
                 </span>
               {% endif %}
 
@@ -236,7 +235,7 @@
                   <span class="post-meta-item-text">{{ __('post.min2read') }}</span>
                 {% endif %}
                 <span title="{{ __('post.min2read') }}">
-                  {{ min2read(post.content) }}
+                  {{ min2read(post.content) }}分钟
                 </span>
               {% endif %}
             </div>
