@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Luyh&#39;s Blog</title>
+  <subtitle>welcome</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://luyh.github.io/"/>
   <updated>2017-07-25T15:14:33.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://luyh.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Luyh</name>
     
   </author>
   
@@ -17,26 +17,10 @@
   
   <entry>
     <title>停了几天没写博客今天续上</title>
-    <link href="http://yoursite.com/2017/07/24/2017/07/24-%E5%81%9C%E4%BA%86%E5%87%A0%E5%A4%A9%E6%B2%A1%E5%86%99%E5%8D%9A%E5%AE%A2%E4%BB%8A%E5%A4%A9%E7%BB%AD%E4%B8%8A/"/>
-    <id>http://yoursite.com/2017/07/24/2017/07/24-停了几天没写博客今天续上/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-24-%E5%81%9C%E4%BA%86%E5%87%A0%E5%A4%A9%E6%B2%A1%E5%86%99%E5%8D%9A%E5%AE%A2%E4%BB%8A%E5%A4%A9%E7%BB%AD%E4%B8%8A/"/>
+    <id>http://luyh.github.io/日志/2017-07-24-停了几天没写博客今天续上/</id>
     <published>2017-07-24T14:36:00.000Z</published>
     <updated>2017-07-25T15:14:33.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="关于健身"><a href="#关于健身" class="headerlink" title="关于健身"></a>关于健身</h3><p>俺算是锻炼成隐了，自从办了卡已经连续5天去了健身房，每次1-1.5小时。没有很系统训练，主要以有氧运动为主，跑步或动感单车半个多小时，另外手舞足蹈（健身操）15分钟+摸摸器材15分钟。<br><a href="https://luyh.github.io/日志/2017-07-20-今天去办了健身卡/" target="_blank" rel="external">这篇日志</a>我大概想明白了为什么要健身，相信我还能继续保持下去。财富专栏第12期-“你为么总是放弃”（要引用下链接的，但微信公众号对链接实在不友好，大家在公众号自己找下），主动放弃了“坚持”和“努力”的概念，做自己喜欢的事情是不用臭哄哄的坚持。文章分享了做好事不用坚持的三个技巧：</p>
-<ul>
-<li>一念一世界，先为这事赋予重大意义</li>
-<li>如果不这么做，会有哪些负面意义</li>
-<li>通过社交进行学习</li>
-</ul>
-<p>第1点我赋予了健身意义，还仍不到”重大”的程度，第2点没有展开，第3点，只要去到健身房，自然会健身的。</p>
-<p>不小心又复习了一篇文章。</p>
-<h3 id="博客-amp-微信公众号"><a href="#博客-amp-微信公众号" class="headerlink" title="博客&amp;微信公众号"></a>博客&amp;微信公众号</h3><p>现在试着在公众号分享分章，但是排版比较麻烦，网上找了个<a href="https://atom.io/packages/atomic-chrome" target="_blank" rel="external">atom插件</a>，以后可以在atom写公众号和博客文章了。只是插件需要翻墙啊。我这台mac翻墙配置还不够利索，明天继续了。</p>
-<h3 id="早睡早起"><a href="#早睡早起" class="headerlink" title="早睡早起"></a>早睡早起</h3><p>折腾没一下，时间就过去了。先这样吧，如果睡好了，明天早起的话，可以继续折腾，或读些书写写笔记。</p>
-<h3 id="最后分享ATOM相关"><a href="#最后分享ATOM相关" class="headerlink" title="最后分享ATOM相关"></a>最后分享ATOM相关</h3><p><a href="http://www.jianshu.com/p/b4c8479cfaa5" target="_blank" rel="external">http://www.jianshu.com/p/b4c8479cfaa5</a></p>
-<p>git-plus这个插件我有用，很好。</p>
-<p>看这编程效果，带感！<br><img src="http://upload-images.jianshu.io/upload_images/599584-24e6d24af264177f.gif?imageMogr2/auto-orient/strip" alt="图片"></p>
-<h3 id="头疼"><a href="#头疼" class="headerlink" title="头疼"></a>头疼</h3><p>博客出了问题，发布不出去啊。不折腾了，盖上mac,晚安!</p>
-]]></content>
     
     <summary type="html">
     
@@ -44,54 +28,19 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://luyh.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>音频10|如何有效提高元认知能力</title>
-    <link href="http://yoursite.com/2017/07/23/2017/07/23-%E9%9F%B3%E9%A2%9110%7C%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E6%8F%90%E9%AB%98%E5%85%83%E8%AE%A4%E7%9F%A5%E8%83%BD%E5%8A%9B/"/>
-    <id>http://yoursite.com/2017/07/23/2017/07/23-音频10|如何有效提高元认知能力/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-23-%E9%9F%B3%E9%A2%9110-%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E6%8F%90%E9%AB%98%E5%85%83%E8%AE%A4%E7%9F%A5%E8%83%BD%E5%8A%9B/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-23-音频10-如何有效提高元认知能力/</id>
     <published>2017-07-23T08:12:00.000Z</published>
     <updated>2017-07-23T09:30:16.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>点击以下链接，查看专栏文章</p>
-<ul>
-<li><a href="https://m.igetget.com/subscribe/4zYqdl97MBaLOyV2KbZmRNov0Px6vAzAUjH6NopJExz3rXe5gn8GAk14D6YWjOq2" target="_blank" rel="external">音频10|如何有效提高元认知能力</a></li>
-</ul>
-<h3 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h3><ul>
-<li>刻意练习提高元认知的三个方法：坐享，兴趣和反思</li>
-<li>关于坐享，笑来老师还专门写了一本书-<a href="http://zhibimo.com/books/xiaolai/zuo-xiang-qi-cheng" target="_blank" rel="external">知笔墨-《坐享其成》</a></li>
-<li>坐享是锻炼自己将注意力全部集中到一点（呼吸），坐享是一种大脑体操，像锻炼肌肉一样锻炼自己的大脑。</li>
-<li>全神贯注也是锻炼元认知能力的有效方法，做感举的事情容易进入全神贯注的状态。</li>
-<li>全神贯注分为主动和被动（比如玩游戏，听小说）。主动全神贯注可以专注于提升某个特定技能。</li>
-<li>要找一个能磨练自己某项技能的兴趣，让自己迅速进入”主动的全神贯注”，它是锻炼元认知能力非常重要的方法，甚至是生命中不可或缺的内容。</li>
-<li>反思是刻意训练元认知最高效的手段</li>
-<li>每天花十分钟，反思一下自己的思路和思考结果</li>
-<li>反思不仅是锻炼元认识的方式，也是调整情绪的根本</li>
-</ul>
-<h3 id="思考与形动"><a href="#思考与形动" class="headerlink" title="思考与形动"></a>思考与形动</h3><p>以下问题都点大（难度）了，不是随随便便就能答的了。</p>
-<ol>
-<li>反思下最近情绪失控，根源是什么？如何解决？<br>&gt;</li>
-<li>怎样刻意训练孩子的元认知！</li>
-<li>如何与妻子丈夫，男女朋友共同刻意训练元认知！</li>
-<li>思考研究下元认知在社交活动中作用，以及哪些方面格外重要？</li>
-<li>如何把思考未来，把反思当作生活中的一部分？<blockquote>
-<p>我坚持写博客（日志和分享），本身也是在持续反思，不是吗？先这样保持下去。</p>
-</blockquote>
-</li>
-</ol>
-<h3 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h3><p>既然已经了解元认识的重要性，以及知道了训练元认知的方法，就应该相应的采取行动：</p>
-<ul>
-<li>规划出时间，每天做坐享练习</li>
-<li>我的兴趣：折腾<a href="http://lixiaolai.com" target="_blank" rel="external">李笑来博客（http://lixiaolai.com）-《人人都是工程师》</a>，这个博客就是跟随折腾的结果</li>
-<li>每天写反思日记。断断续续我有在写日记，但形式上并不太像反思日志。</li>
-</ul>
-<p>这些训练对我来说并不太难，我是愿意做的。只是有时时间不够啊。关于时间不够的问题，[得到]送我的这本书-<a href="https://m.igetget.com/share/topic/tid/2694" target="_blank" rel="external">《暗时间》| 张凯解读</a>或许可以帮到我。</p>
-]]></content>
     
     <summary type="html">
     
@@ -101,71 +50,17 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
   </entry>
   
   <entry>
     <title>第9篇-你应该拥有的最重要的能力</title>
-    <link href="http://yoursite.com/2017/07/22/2017/07/22-%E7%AC%AC9%E7%AF%87-%E4%BD%A0%E5%BA%94%E8%AF%A5%E6%8B%A5%E6%9C%89%E7%9A%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B/"/>
-    <id>http://yoursite.com/2017/07/22/2017/07/22-第9篇-你应该拥有的最重要的能力/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-22-%E7%AC%AC9%E7%AF%87-%E4%BD%A0%E5%BA%94%E8%AF%A5%E6%8B%A5%E6%9C%89%E7%9A%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-22-第9篇-你应该拥有的最重要的能力/</id>
     <published>2017-07-22T08:01:00.000Z</published>
     <updated>2017-07-23T08:09:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="阅读说明"><a href="#阅读说明" class="headerlink" title="阅读说明"></a>阅读说明</h3><p>新朋友可能不知道怎么阅读我分享的[得到]-《通往财富自由之路》的文章，这里特意说明一下：<br>博客文章开头会分享一个链接，打开会出现个红包，抢了红包就是[得到]的文章。<br>今天的链接在此：</p>
-<ul>
-<li><a href="https://m.igetget.com/subscribe/ZVnN13Rj6qk9D5z0ZLdxWrJy7QNaMdKdTEH6NBpEaMeKmGO8nolV4XA2vgBbYzA6" target="_blank" rel="external">第9篇-你应该拥有的最重要的能力</a>-音频</li>
-</ul>
-<p>分享的目的，是为了让大家能一起成长。<br>建议大家和我一样，主动接受“洗脑”，越洗越健康，越洗越有钱！</p>
-<hr>
-<p>下面是我针对分享文章读书笔记</p>
-<h3 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h3><p>专栏第1篇，告诉了我们最宝贵的财富是“注意力”，这一篇告诉我们另一个概念：元认知。</p>
-<ul>
-<li>元认知是我们对自己的思考过程的认知与理解，简单地说，就是对认知的认识</li>
-<li>元认识的强弱决定了我们每个方面的强弱</li>
-<li>为什么一个人的赚钱能力最终只与元认识有关呢？<ul>
-<li>赚钱能力取决于你能给别人创造多少价值</li>
-<li>只能正确的认识，才可能产生正确的行为，赚钱行为的产生，积累及效率（快与慢，多与少）也取决于你的认识水平。而元认识可以自省认识的认识，进一步提高认识水平。元认识弱，对认知升级弱，认识积累慢，从而赚钱慢而少。反之异然。我说的对不对？</li>
-</ul>
-</li>
-<li>元认识不仅可以习得，也可以通过“刻意练习”长期持续发展</li>
-</ul>
-<h3 id="思考与行动"><a href="#思考与行动" class="headerlink" title="思考与行动"></a>思考与行动</h3><ol>
-<li>你觉得自己元认知能力强吗？又，在哪些方面元认识自己元认知能力更强？<blockquote>
-<p>我认为自己元认识能力一般，还有很大的提升空间。我觉得做自己喜欢的事情的时候，大脑比较兴奋，元认识比较容易激活。</p>
-<ul>
-<li>比如折腾博客搭建时候，磕磕碰碰也做起来了，如果我能力，而心和理解更强些可能会少些麻烦。不过这些都是折腾的必经之路，少不了的。越过这道坎，下次再走的时候就容易多了。</li>
-<li>比如之前玩游戏（魔兽和dota时候，现在lol时代我已经out了），也会想着怎么站位，怎么放招，怎么配合，玩出比较high的效果。</li>
-<li>我不想做的方面（或者说我没能力做好）的方面，元认识就无法激活，无能为力。。`</li>
-</ul>
-</blockquote>
-</li>
-<li>在思考哪些问题的时候，必须刻意运用自己的元认识？<blockquote>
-<p>最重要的资源是注意力，元认识也必须首先要运用在注意力方面。而专栏这么多期过去了，我对注意力还是没什么把控。。。（大的方面仍没什么改观，但小的方面其实有所改变，比如最近我加大了对健身的投入）当然意识到注意力被分散了，本身元认识就已经激活了。</p>
-</blockquote>
-</li>
-<li>自己想想提高元认知能力的方法。<blockquote>
-<p>我自己想的话，可能就是兴趣了，因为做自己爱做的事情，脑子活性会比较高。其实我已经看过下一篇文章，在这里元认识可以通过以下三方面锻炼：</p>
-<ul>
-<li>坐享</li>
-<li>兴趣</li>
-<li>忘了。。</li>
-</ul>
-</blockquote>
-</li>
-<li>怎样让你的亲人，朋友也认识到元认知的重要性？<blockquote>
-<p>说实在，现在我对元认识的理解都只是一点点，怎样让别人也认识到呢？只能说自己先成长，这是先决条件。我在这里分享专栏文章，自己带头写读书笔记，也是想多少能影响身边的朋友或亲人。但效果多少有些冷清，还要再接再励！（有时候我自己也会偷懒，没带好头）</p>
-</blockquote>
-</li>
-<li>身边哪些人元认知更强或最强？你能从他们身上学到什么？<blockquote>
-<p>我还没有从元认识的角度，观察过身边的人呢。不过我觉得这是个很好的问题，通过观察别人，加强自己对元认识的理解。</p>
-</blockquote>
-</li>
-</ol>
-<h3 id="PS-postscript，顺便说一下"><a href="#PS-postscript，顺便说一下" class="headerlink" title="PS (postscript，顺便说一下)"></a>PS (postscript，顺便说一下)</h3><p>这是昨天起稿的文章，拖到今天7.23号写完。虽然我相比之前读的更细致了，但仍没太多自己的理解和体会，写不出令自己满意的内容，故而被“情感大脑”战胜，拖延至此。</p>
-<p>我知道阅读理解写作很重要，但怎样保持持续输出呢？在这里我意识到自己写作的惰性，也算是元认识被激活了，但我没并有马上得到自己的答案，是可以好好想一想。</p>
-]]></content>
     
     <summary type="html">
     
@@ -173,35 +68,21 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
-      <category term="音频" scheme="http://yoursite.com/tags/%E9%9F%B3%E9%A2%91/"/>
+      <category term="音频" scheme="http://luyh.github.io/tags/%E9%9F%B3%E9%A2%91/"/>
     
-      <category term="元认知" scheme="http://yoursite.com/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/"/>
+      <category term="元认知" scheme="http://luyh.github.io/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title>泡沫轴到了</title>
-    <link href="http://yoursite.com/2017/07/21/2017/07/21-%E6%B3%A1%E6%B2%AB%E8%BD%B4%E5%88%B0%E4%BA%86/"/>
-    <id>http://yoursite.com/2017/07/21/2017/07/21-泡沫轴到了/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-21-%E6%B3%A1%E6%B2%AB%E8%BD%B4%E5%88%B0%E4%BA%86/"/>
+    <id>http://luyh.github.io/日志/2017-07-21-泡沫轴到了/</id>
     <published>2017-07-21T14:39:00.000Z</published>
     <updated>2017-07-21T15:00:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>都不知道起什么标题了，我也不是标题党，随便了。</p>
-<p>昨晚健身后回来，竟然太兴奋睡不着，水喝多了也有关系，没睡着起来上了两次厕所。</p>
-<p>今天上班实在是累啊。</p>
-<p>现在主要是要打基础，注重心肺，减脂（肚子）和韧性。增肌是锻炼附带的吧，不刻意训练。<br>之前分享的健身课还是很有用的，练起来再回去听更加受用。怎样学好英语？一个字“用”[引自李笑来-《人人都能用英语》]，改造下：怎样做好健身，一个字“练”，在练中学。</p>
-<h1 id="健身房日记"><a href="#健身房日记" class="headerlink" title="健身房日记"></a>健身房日记</h1><p>下班吃了饭还是义无反顾去了健身房，做了体脂测试，各项指标正常，脂肪16%也是正常，但可以降得更低（毕竟有点小肚子了）</p>
-<p>跑步机慢跑，其实我跑15分钟就跑不动了，满身大汗，有教练盯着就是不一样，非要跑足20分钟。。。</p>
-<p>简单摸了几下的腹肌器材</p>
-<p>去动感单车，真是劲爆，踩得有劲，就是我耐力和速度跟不上音乐，跑30s脚就酸了！（跟今天状态不好有关）<br>又是踩得满身大汗，爽！</p>
-<p>去瑜伽区，只有几个女生在练，教练很惊讶对我说“这里是练瑜伽哦（你是不是走错了？）”，我就是来练瑜伽的，没毛病。在教下犬式（keep有），脚底实在是下不去，脚也伸不直。十来分钟就走了，做不下去。。。</p>
-<h1 id="泡沫轴按摩"><a href="#泡沫轴按摩" class="headerlink" title="泡沫轴按摩"></a>泡沫轴按摩</h1><p>泡沫轴和瑜伽垫到了<br>回来在keep做了组泡沫轴全身按摩，那个爽啊。</p>
-<p><img src="https://img.okay.do/dd21bb99ab14e215c199b2f9ca164cc5_W1480_H1480_G0@0e_290w" alt="img"></p>
-<p>又是很迟了，各位晚安，今天一定能睡个好觉。<br>PS:今天同样没有[财富]文章更新，明天一定会有，敬请期待。</p>
-]]></content>
     
     <summary type="html">
     
@@ -212,61 +93,19 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
+      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>今天去办了健身卡</title>
-    <link href="http://yoursite.com/2017/07/20/2017/07/20-%E4%BB%8A%E5%A4%A9%E5%8E%BB%E5%8A%9E%E4%BA%86%E5%81%A5%E8%BA%AB%E5%8D%A1/"/>
-    <id>http://yoursite.com/2017/07/20/2017/07/20-今天去办了健身卡/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-20-%E4%BB%8A%E5%A4%A9%E5%8E%BB%E5%8A%9E%E4%BA%86%E5%81%A5%E8%BA%AB%E5%8D%A1/"/>
+    <id>http://luyh.github.io/日志/2017-07-20-今天去办了健身卡/</id>
     <published>2017-07-20T14:30:00.000Z</published>
     <updated>2017-07-20T14:56:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>晚上出去外面逛，去拌了张半年的健身卡。</p>
-<p>很多人（很可能就是你，以及之前的我）不理解为什么花钱去健身，没得没必要。</p>
-<p>现在的我，认识到了健身的重要性，认识到了花钱就是捡便宜，已经升级为不一样的物种。</p>
-<p>我为什么健身：</p>
-<ul>
-<li>步入中年，肚子开始出来了，想减肚子</li>
-<li>体重上来了，全长在肚子上，身体还是个弱架子，想提高身体素质</li>
-<li>通过锻炼，保持好的精神，用更好的精力面对工作和生活</li>
-<li>防止未来自己老的太快，毛病太多。</li>
-</ul>
-<p>为什么去花钱去健身房健身</p>
-<ul>
-<li>花点钱得到健身器材的使用权</li>
-<li>有专业（不是很专业）的教练教导训练</li>
-<li>并提供健身环境和其他人一起训练，就是很开心的事。</li>
-<li>提高我健身的强度和效果</li>
-<li>花钱就是捡便宜，多几百，少几百真的不是最重要的事，所以我不会为了那点钱跟教练斤斤计较，我不想为这些事情浪费精力。</li>
-</ul>
-<p>第一天训练体会：</p>
-<ul>
-<li>健身房有大量的健身器材，还是挺好玩的，比自己在宿舍做徒手胸肌，徒手腹肌有意思多了</li>
-</ul>
-<p>我会“坚持”去健身房吗？</p>
-<ul>
-<li>前面说过，笑来老师已经去掉了“坚持”的概念</li>
-<li>做自己喜欢的事情，不用坚持</li>
-<li>我认识到了健身的重要性，已经觉得自己已经在这方面晚很多了，只要“客观”允许，我想我都会去的。</li>
-</ul>
-<p>说下“客观”的困难可能会在哪里？</p>
-<ul>
-<li>晚上加班，太迟了不想去。有可能，但其实可能调整，让自己不加班。或者早点下班，早点去锻炼</li>
-<li>我也会因为懒而不想动。必然会出现，那就多想想我为什么要健身，也不用想太多，说服自己出发就可以了。到了那里自然会动起来。</li>
-</ul>
-<p>说下最近的健身其他投资情况：</p>
-<ul>
-<li>换了乐心手环，比小米手环好用！有了半天的心率数据了，但还没分析，指导练习。明天会有晨起的心率数据。心肺是一切锻炼的基础。</li>
-<li>买了瑜伽垫和泡沫棉，快到了。韧性很重要！</li>
-<li>回来买个十几块的腰包，健身时候带。</li>
-</ul>
-<p>PS:今天[财富]文章没更新。</p>
-]]></content>
     
     <summary type="html">
     
@@ -279,26 +118,19 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
+      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>跑起来</title>
-    <link href="http://yoursite.com/2017/07/19/2017/07/19-%E8%B7%91%E8%B5%B7%E6%9D%A5/"/>
-    <id>http://yoursite.com/2017/07/19/2017/07/19-跑起来/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-19-%E8%B7%91%E8%B5%B7%E6%9D%A5/"/>
+    <id>http://luyh.github.io/日志/2017-07-19-跑起来/</id>
     <published>2017-07-19T14:07:00.000Z</published>
     <updated>2017-07-19T14:21:59.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="健身"><a href="#健身" class="headerlink" title="健身"></a>健身</h3><p>买的小米手环连不上手机，差评。<br>退货，换上乐心手环，不要让我失望啊。</p>
-<p>今天开跑了。绕工业区路了一圈。在keep跑前先动态拉升，跑10分钟，跑后再拉升。等手环回来了，测试下心率，用最佳的强度跑起来。听了健身课，优先关注心肺功能，其次减脂。先练一段时间不急。<br><img src="https://img.okay.do/6a15b47bb47e1b12336fb9113969b497_W664_H664_G0@0e_290w" alt="跑步"></p>
-<p>我发觉上班，或宿舍写作坐久了,脖子和后背有些僵，可能是坐姿不对，椅子和桌子不匹配。。。</p>
-<h3 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h3><p>第8篇-从平庸走向卓越的最佳策略是什么？</p>
-<h3 id="睡眠"><a href="#睡眠" class="headerlink" title="睡眠"></a>睡眠</h3><p>写完，11点前睡。<br>手环到了就可以监测睡眠了。</p>
-]]></content>
     
     <summary type="html">
     
@@ -307,51 +139,19 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
+      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>第8篇-从平庸走向卓越的最佳策略是什么？</title>
-    <link href="http://yoursite.com/2017/07/19/2017/07/19-%E7%AC%AC8%E7%AF%87-%E4%BB%8E%E5%B9%B3%E5%BA%B8%E8%B5%B0%E5%90%91%E5%8D%93%E8%B6%8A%E7%9A%84%E6%9C%80%E4%BD%B3%E7%AD%96%E7%95%A5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>http://yoursite.com/2017/07/19/2017/07/19-第8篇-从平庸走向卓越的最佳策略是什么？/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-19-%E7%AC%AC8%E7%AF%87-%E4%BB%8E%E5%B9%B3%E5%BA%B8%E8%B5%B0%E5%90%91%E5%8D%93%E8%B6%8A%E7%9A%84%E6%9C%80%E4%BD%B3%E7%AD%96%E7%95%A5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-19-第8篇-从平庸走向卓越的最佳策略是什么？/</id>
     <published>2017-07-19T13:53:00.000Z</published>
     <updated>2017-07-19T14:44:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://m.igetget.com/subscribe/bY8Lmy5j8DzqxJXkA2VaZ9vGrPoZjbzbCkHb5ZQN1ebol6B7YM304ROWgdKEnOD2" target="_blank" rel="external">从平庸走向卓越的最佳策略是什么？|音频版</a></p>
-<h3 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h3><ul>
-<li>竞争具有多个维度</li>
-<li>在多个维度上打造竞争力</li>
-<li>至少在一个维度上突出</li>
-</ul>
-<h3 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h3><ul>
-<li>上一篇讲到”落后”的概念，此篇接着讲“竞争”，而且是打造多个维度的竞争。</li>
-<li>多个维度与单个维度的对比，竞争优势要大，因为这是维度上的差距。。。</li>
-<li>要理解什么是多维竞争，多去看看文章讲到的一些例子，</li>
-<li>自己能举些例子就更好更深刻。</li>
-<li>因为成本因素，没必要，也不可能在每个维度上突出，但至少要在一个维度上比较突出，在此基础上打造“多维竞争力”，将以<code>几何级数增长</code>。</li>
-<li>这确实是从平庸走向卓越的最佳策略</li>
-</ul>
-<h4 id="再唠叨下我自己怎么写读后感："><a href="#再唠叨下我自己怎么写读后感：" class="headerlink" title="再唠叨下我自己怎么写读后感："></a>再唠叨下我自己怎么写读后感：</h4><ul>
-<li>跑步时候粗听一遍</li>
-<li>回来看一遍</li>
-<li>边看书边试着用自己的语言组织内容</li>
-<li>自己组织不起来的句子再反复读相关内容</li>
-<li>这样不可能看的不细啊</li>
-<li>这样写点东西以及思考，差不多要半个小时以上</li>
-<li>不过时间及注意力的投入是值得的</li>
-<li>虽然理解还比较粗浅，但比随便看看强多了啊</li>
-<li>这就是输出倒逼输入的力量</li>
-</ul>
-<h3 id="思考与行动（问答）"><a href="#思考与行动（问答）" class="headerlink" title="思考与行动（问答）"></a>思考与行动（问答）</h3><p>这里是最难的部分，比较晚了，明天以留言形式更新</p>
-<h3 id="留言金句"><a href="#留言金句" class="headerlink" title="留言金句"></a>留言金句</h3><p>建议大家可以多关注下留言，有些留言也是很好的。</p>
-<ul>
-<li>单维竞争也是可以成功，但是很难<br>-</li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -359,37 +159,21 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
-      <category term="音频" scheme="http://yoursite.com/tags/%E9%9F%B3%E9%A2%91/"/>
+      <category term="多维竞争" scheme="http://luyh.github.io/tags/%E5%A4%9A%E7%BB%B4%E7%AB%9E%E4%BA%89/"/>
     
-      <category term="多维竞争" scheme="http://yoursite.com/tags/%E5%A4%9A%E7%BB%B4%E7%AB%9E%E4%BA%89/"/>
+      <category term="音频" scheme="http://luyh.github.io/tags/%E9%9F%B3%E9%A2%91/"/>
     
   </entry>
   
   <entry>
     <title>第7篇-什么是落后？</title>
-    <link href="http://yoursite.com/2017/07/18/2017/07/18-%E4%BB%80%E4%B9%88%E6%98%AF%E8%90%BD%E5%90%8E%EF%BC%9F/"/>
-    <id>http://yoursite.com/2017/07/18/2017/07/18-什么是落后？/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-18-%E4%BB%80%E4%B9%88%E6%98%AF%E8%90%BD%E5%90%8E%EF%BC%9F/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-18-什么是落后？/</id>
     <published>2017-07-18T14:58:00.000Z</published>
     <updated>2017-07-18T15:35:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<ul>
-<li><a href="https://m.igetget.com/subscribe/oq5y6ZqNB0ombaMg5GnOY32zjQOkMEeEFBHn31QR7DvdekWAK1VXJ9r8Elx4Lr2N" target="_blank" rel="external">什么是落后？|音频</a></li>
-</ul>
-<p>提醒：文章末尾[今日得到]对文章进行了总结。写得很好，很简练。</p>
-<h3 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h3><p>认识到什么是落后：1%以后都可能是落后，文章的有人留言就很好：没有比较就没有落后。。  。每个人都可以尽量感知世界，你要知道别人到底多牛，认清自己的落后状态，。。。利用害怕落后的恐惧追求对知识的渴求，促使自己进步，摆脱落后。</p>
-<h3 id="问答（思考与行动）"><a href="#问答（思考与行动）" class="headerlink" title="问答（思考与行动）"></a>问答（思考与行动）</h3><ol>
-<li><p>要看什么方面，放在什么群体中比较。我觉得自己并没什么能力或方面是多突出的。</p>
-</li>
-<li><p>不必面面俱到，也不可能面面是强项，不过确实某些方面值得投入。比如赚钱。。。</p>
-</li>
-<li>学习到此，变化还是比较大的，比如说我现在在打字，输出倒逼输入，（相比你们只看，都不交作业）已经很大进步了。。。</li>
-<li>摆脱危机感的方式，我想只有要么不做（放弃），要么就用行动才能化解。</li>
-<li>列个单子：自己处于平均水平之上的幻觉？好像没有。。。一直很落后。。。</li>
-</ol>
-]]></content>
     
     <summary type="html">
     
@@ -398,56 +182,21 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
-      <category term="落后" scheme="http://yoursite.com/tags/%E8%90%BD%E5%90%8E/"/>
+      <category term="音频" scheme="http://luyh.github.io/tags/%E9%9F%B3%E9%A2%91/"/>
     
-      <category term="音频" scheme="http://yoursite.com/tags/%E9%9F%B3%E9%A2%91/"/>
+      <category term="落后" scheme="http://luyh.github.io/tags/%E8%90%BD%E5%90%8E/"/>
     
   </entry>
   
   <entry>
     <title>邀请你一起来学习-[得到-有效管理你的健康]</title>
-    <link href="http://yoursite.com/2017/07/18/2017/07/18-%E9%82%80%E8%AF%B7%E4%BD%A0%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%AD%A6%E4%B9%A0-%5B%E5%BE%97%E5%88%B0-%E6%9C%89%E6%95%88%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%5D/"/>
-    <id>http://yoursite.com/2017/07/18/2017/07/18-邀请你一起来学习-[得到-有效管理你的健康]/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-18-%E9%82%80%E8%AF%B7%E4%BD%A0%E4%B8%80%E8%B5%B7%E6%9D%A5%E5%AD%A6%E4%B9%A0-%E5%BE%97%E5%88%B0-%E6%9C%89%E6%95%88%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7/"/>
+    <id>http://luyh.github.io/日志/2017-07-18-邀请你一起来学习-得到-有效管理你的健康/</id>
     <published>2017-07-18T14:31:00.000Z</published>
     <updated>2017-07-18T14:47:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天发个广告哈，扫描下方二维码，参加健身管理小课。我已经报名了，周边的小伙伴可以找我收听。</p>
-<p><img src="https://img.okay.do/6b596da5f930a3dfddb70131fad68dd6_W900_H1441_G0@0e_290w" alt="img"></p>
-<p>说说我的收获和行动：</p>
-<ul>
-<li><p>花钱投资：</p>
-<ul>
-<li>立马买了瑜伽垫</li>
-<li>买了泡沫轴，准备做瑜伽。</li>
-<li>买了小米手环测心率</li>
-</ul>
-<blockquote>
-<p>[花钱就是捡便宜]一章，已经说了能用钱买的就是捡便宜，马上装备起来，投资健康，包括收听健身课，都是很值得的，我正想加大自己学习的投入。买东西的时候，我也注意自己的[注意力]，挑好就果断买，没必要货比三家，浪费时间。</p>
-</blockquote>
-</li>
-<li><p>马上动起来</p>
-<ul>
-<li>做了组瑜伽</li>
-<li>准备跑步计划</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>思想上的转变<ul>
-<li>跑步还真有用，快走或跑步对提高心肺，减脂都有很大帮助。可能比我自己在宿舍练10分钟腹肌，胸肌有用得多。</li>
-<li>关注柔韧性，准备练起瑜伽。虽然现在身体硬邦邦，但相信与时间做朋友，练起来总会有效果的。</li>
-<li>当然keep还是要继续的。</li>
-</ul>
-</li>
-<li>关于睡眠，想早睡，但并不能如愿。<ul>
-<li>反思是由于没有做好精力安排，感觉也没做什么，一晚上很快就过去了，然后日志也不写，读书也不分享。做完这些又很迟了。</li>
-</ul>
-</li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -456,45 +205,19 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
+      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>第6篇-你到底有没有资本？</title>
-    <link href="http://yoursite.com/2017/07/17/2017/07/20170716-%E4%BD%A0%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E6%9C%AC%EF%BC%9F-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/07/17/2017/07/20170716-你到底有没有资本？-读书笔记/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-20170716-%E4%BD%A0%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E6%9C%AC%EF%BC%9F-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-20170716-你到底有没有资本？-读书笔记/</id>
     <published>2017-07-17T15:00:00.000Z</published>
     <updated>2017-07-17T15:04:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>请在公众号回复“2”，并打开链接阅读本文。</p>
-<p><a href="https://m.igetget.com/subscribe/GZEO4KGBxDaeoXrMy27Al60RgP90l474iZHz1mQv51L3Jdk9VqmNYzZWb8jnEYr2" target="_blank" rel="external">第6篇-你到底有没有资本？文字|音频</a></p>
-<h4 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h4><p>单单钱本身并不能称之为资本，资本要满足3个基本要：</p>
-<ul>
-<li>资金大小</li>
-<li>投资期限：时限不同，威力不同</li>
-<li>背后智慧：</li>
-</ul>
-<p>虽然不容易，但站在资本背后的实力是可以习得的，从以上三个维度突破：</p>
-<ul>
-<li>投资门款并不高，重在赢亏比例，而非资金大小</li>
-<li>时限：你可以拿出多少资金，给资金判一个无期徒刑。</li>
-<li>摆正心态，长期深入思考</li>
-</ul>
-<h4 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h4><p>资金的大小和关注盈亏比例我是已经理解的，无期徒刑我之前是不懂啊，但真要做到才能保证好的心态和长久思考。<br>看完之后，发现我还是可以有（仅仅是可以有）一些资本的。虽然我已经开始关注理财，但远远没有站在资本之后，要走的路还很远，缺少投资的智慧。</p>
-<p>文章最后提到“借钱投资”，应该可以理解成是“上杠杆”了。杠杆是很危险，但如果用好了还真是能起到杠杆的作用，且一定要慎用。</p>
-<blockquote>
-<p>关于资本的思考，一旦开始就不应该停下来</p>
-</blockquote>
-<h4 id="思考与行动（问答）"><a href="#思考与行动（问答）" class="headerlink" title="思考与行动（问答）"></a>思考与行动（问答）</h4><p>去年开始，我开始关注理财，快有两年了吧，但并不正经，也没思考资金的三要素。</p>
-<p>身边从事投资活动的人并不多，大都并没意思到自己可以投资，少数有的跟我一样，也并不正经。比如某人玩玩山寨币，比特币太高了，他不敢买。。。</p>
-<p>我从事投资的金额已经超出“无期徒刑”的大小了。本来都不理解无期徒刑的概念，自然没办法在投资过程中保持好的心态。如果按照年收入的10%，确实是可以的，只是觉得资金偏少啊。怎样加大“无期徒刑”的资金大小呢？估计得从小慢慢爬。。但肯定有提高加速度的方法，继续学习。</p>
-<p>什么能做，什么不能做，之后再补单子。</p>
-<h4 id="扩展阅读"><a href="#扩展阅读" class="headerlink" title="扩展阅读"></a>扩展阅读</h4><p>新生大学-”理财”</p>
-<h4 id="评论与留言"><a href="#评论与留言" class="headerlink" title="评论与留言"></a><a href="https://github.com/luyh/luyh.github.io/issues/10" target="_blank" rel="external">评论与留言</a></h4>]]></content>
     
     <summary type="html">
     
@@ -503,49 +226,19 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
-      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://luyh.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>第5篇-贵到贵人的科学方法</title>
-    <link href="http://yoursite.com/2017/07/16/2017/07/20170716-%E8%B4%B5%E5%88%B0%E8%B4%B5%E4%BA%BA%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95/"/>
-    <id>http://yoursite.com/2017/07/16/2017/07/20170716-贵到贵人的科学方法/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-20170716-%E8%B4%B5%E5%88%B0%E8%B4%B5%E4%BA%BA%E7%9A%84%E7%A7%91%E5%AD%A6%E6%96%B9%E6%B3%95/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-20170716-贵到贵人的科学方法/</id>
     <published>2017-07-16T10:44:00.000Z</published>
     <updated>2017-07-16T23:28:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>点击阅读/收听：<a href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxed28a925b9d1a8d0&amp;redirect_uri=https%3A%2F%2Fm.igetget.com%2Fsubscribe%2Flogin%2Fqey3gGnz942XNWLAoelJ6Dk0awAWlK2KhaHEqJQEmd1rvKMYy7qZ5RbV8xjOBD8z&amp;response_type=code&amp;scope=snsapi_userinfo&amp;state=v300s4m744yy8a8&amp;connect_redirect=1#wechat_redirect" target="_blank" rel="external">遇到贵人的科学方法-文字|音频</a></p>
-<h4 id="文章主题"><a href="#文章主题" class="headerlink" title="文章主题"></a>文章主题</h4><ul>
-<li>遇到贵人是有方法可循的，总结12条原则</li>
-<li>求助是一种交易，是展示自我价值的艺术</li>
-</ul>
-<p>习得自动吸引贵人相助的方法，找到通往财富自由之路的根本</p>
-<h4 id="思考与行动（问答）"><a href="#思考与行动（问答）" class="headerlink" title="思考与行动（问答）"></a>思考与行动（问答）</h4><p>我觉得文章说的原则有道理：</p>
-<ul>
-<li>人们更乐于与乐观的人相处，更愿意帮助乐观的人;</li>
-<li>乐于帮助别人，别人也更愿意帮助你；</li>
-<li>有能力的人，能进入价值更高的集群中，能以更高的价值帮助别人，以及获得别人更高价值的帮助;</li>
-<li>乐于分享，别人也愿意分享给你。</li>
-<li>给别人制造麻烦，别人就不想帮你了</li>
-<li>帮助并不仅以金钱为回报，贵人出手瞬间即获得了回报，要么确认了自己的价值，要么看重了未来的某种可能。</li>
-<li>牛人自牛，别人不一定想帮他，贵人互帮互助，有价值交换，能获得更多帮助。</li>
-</ul>
-<p>我自己的经历：</p>
-<ul>
-<li>我帮助笑来老师的推广专栏，一方面是笑来老师的贵人，另一方面有机会影响身边的人一起成长也是很开心的事。</li>
-</ul>
-<p>“新生大学”（七年就是一辈子）-《<a href="http://b.xinshengdaxue.com/A18.html" target="_blank" rel="external">惊喜与创造惊喜方法论</a>》-不仅好运，惊喜也有创造方法论的。</p>
-<p>推广”财富”专栏，开始我是有点介意的，因为开始本人并不开放。后来想能成为笑来老师的贵人也是挺开心的事，能帮助身边的人一起成长更开心。</p>
-<p>感觉身边遇到的贵人并不多，可能是自己的交际圈子太小了吧，主动创造的连接也少。但至少现在我有在试着将“专栏”推广给更多的人，也算是不小的进步。</p>
-<h4 id="读后感"><a href="#读后感" class="headerlink" title="读后感"></a>读后感</h4><p>自己成长，才能帮助更多的人，进升更高的价值圈，实现自己价值交换，获得更多贵人的帮助。</p>
-<h4 id="原文链接"><a href="#原文链接" class="headerlink" title="原文链接"></a>原文链接</h4><ul>
-<li><a href="https://luyh.github.io/2017/07/16/2017-07-20170716-贵到贵人的科学方法/" target="_blank" rel="external">博客-贵到贵人的科学方法</a></li>
-<li><a href="https://github.com/luyh/luyh.github.io/issues/8" target="_blank" rel="external">评论与留言</a></li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -553,42 +246,19 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
-      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://luyh.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>周末的一天</title>
-    <link href="http://yoursite.com/2017/07/16/2017/07/%E5%91%A8%E6%9C%AB%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
-    <id>http://yoursite.com/2017/07/16/2017/07/周末的一天/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-%E5%91%A8%E6%9C%AB%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+    <id>http://luyh.github.io/日志/2017-07-周末的一天/</id>
     <published>2017-07-16T00:34:32.000Z</published>
     <updated>2017-07-16T14:03:01.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="0-先唠叨下："><a href="#0-先唠叨下：" class="headerlink" title="0.先唠叨下："></a>0.先唠叨下：</h4><p>下午帮寄个快递，没午休跟废了似的。<br>今天流量极度超标。看电影太high了。</p>
-<h3 id="1、常规记录"><a href="#1、常规记录" class="headerlink" title="1、常规记录"></a>1、常规记录</h3><h4 id="1-1-每天想想，我为什么要写日志"><a href="#1-1-每天想想，我为什么要写日志" class="headerlink" title="1.1 每天想想，我为什么要写日志"></a>1.1 每天想想，我为什么要写日志</h4><p>记录每天成长</p>
-<h4 id="1-2-记录睡觉时间"><a href="#1-2-记录睡觉时间" class="headerlink" title="1.2 记录睡觉时间"></a>1.2 记录睡觉时间</h4><h5 id="睡眠的重要性"><a href="#睡眠的重要性" class="headerlink" title="睡眠的重要性"></a>睡眠的重要性</h5><ul>
-<li>晚睡可能会不够睡觉时间，早点睡更能睡好</li>
-<li>睡好，白天才能有个好精神。</li>
-<li>早点睡早点醒，时间是一样的。但第二天精神不一样</li>
-</ul>
-<h5 id="今日数据"><a href="#今日数据" class="headerlink" title="今日数据"></a>今日数据</h5><ul>
-<li>昨日睡觉时间：23：30</li>
-<li>今日起床时间：8点</li>
-<li>计划今日睡眠：22：30前</li>
-</ul>
-<h5 id="睡眠质量点评"><a href="#睡眠质量点评" class="headerlink" title="睡眠质量点评"></a>睡眠质量点评</h5><p>睡得还好，就是晚睡了，都是周末惹的祸？</p>
-<h3 id="2、做了什么，有什么收获"><a href="#2、做了什么，有什么收获" class="headerlink" title="2、做了什么，有什么收获"></a>2、做了什么，有什么收获</h3><h4 id="2-1-健身"><a href="#2-1-健身" class="headerlink" title="2.1 健身"></a>2.1 健身</h4><ul>
-<li>其他懒的做，做了组瑜伽，压不下去啊！</li>
-<li><a href="https://show.gotokeep.com/usersdiary/589878798c26a32953b25b71/20170716" target="_blank" rel="external">健身16分钟</a>  keep自律给我自由！<ul>
-<li><a href="https://show.gotokeep.com/users/589878798c26a32953b25b71" target="_blank" rel="external">keep中关注我</a>，一起锻炼吧（给我打气吧）！</li>
-</ul>
-</li>
-</ul>
-<h4 id="2-2成长"><a href="#2-2成长" class="headerlink" title="2.2成长"></a>2.2成长</h4><p>嘿，写了关于“贵人”的分享。为了憋出那么几个字。我反复看了好几次，值了。</p>
-<h3 id="3、反思"><a href="#3、反思" class="headerlink" title="3、反思"></a>3、反思</h3><h4 id="3-1-有什么没做到位，有什么遗憾"><a href="#3-1-有什么没做到位，有什么遗憾" class="headerlink" title="3.1 有什么没做到位，有什么遗憾"></a>3.1 有什么没做到位，有什么遗憾</h4><h4 id="3-2-有什么想法，想改进的地方"><a href="#3-2-有什么想法，想改进的地方" class="headerlink" title="3.2 有什么想法，想改进的地方"></a>3.2 有什么想法，想改进的地方</h4>]]></content>
     
     <summary type="html">
     
@@ -597,46 +267,17 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>昨天没写日志</title>
-    <link href="http://yoursite.com/2017/07/16/2017/07/%E6%98%A8%E5%A4%A9%E6%B2%A1%E5%86%99%E6%97%A5%E5%BF%97/"/>
-    <id>http://yoursite.com/2017/07/16/2017/07/昨天没写日志/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-%E6%98%A8%E5%A4%A9%E6%B2%A1%E5%86%99%E6%97%A5%E5%BF%97/"/>
+    <id>http://luyh.github.io/日志/2017-07-昨天没写日志/</id>
     <published>2017-07-16T00:07:48.000Z</published>
     <updated>2017-07-16T00:59:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h5 id="先唠叨下："><a href="#先唠叨下：" class="headerlink" title="先唠叨下："></a>先唠叨下：</h5><p>补发昨天的日志，反思一下，罪过罪过。</p>
-<h3 id="做了什么，有什么收获"><a href="#做了什么，有什么收获" class="headerlink" title="做了什么，有什么收获"></a>做了什么，有什么收获</h3><h5 id="健身"><a href="#健身" class="headerlink" title="健身"></a>健身</h5><ul>
-<li>今天断练了啊！</li>
-<li>没做早操，晚上回来不受控制，看了一晚电影和视频。。。</li>
-<li><a href="https://show.gotokeep.com/users/589878798c26a32953b25b71" target="_blank" rel="external">keep中关注我</a>，一起锻炼吧（给我打气吧）！</li>
-</ul>
-<h4 id="有什么没做到位，有什么遗憾"><a href="#有什么没做到位，有什么遗憾" class="headerlink" title="有什么没做到位，有什么遗憾"></a>有什么没做到位，有什么遗憾</h4><ul>
-<li>又是一周上班结束的时候，也是最容易懈怠地时刻，昨晚回来看了一晚上电影和视频，根本停不下来。。。</li>
-<li>没锻炼</li>
-<li>没写文章</li>
-</ul>
-<h4 id="记录睡觉时间，早睡早起"><a href="#记录睡觉时间，早睡早起" class="headerlink" title="记录睡觉时间，早睡早起"></a>记录睡觉时间，早睡早起</h4><h5 id="睡眠的重要性"><a href="#睡眠的重要性" class="headerlink" title="睡眠的重要性"></a>睡眠的重要性</h5><ul>
-<li>晚睡可能会不够睡觉时间，早点睡更能睡好</li>
-<li>睡好，白天才能有个好精神。</li>
-<li>早点睡早点醒，时间是一样的。但第二天精神不一样</li>
-</ul>
-<h5 id="今日数据"><a href="#今日数据" class="headerlink" title="今日数据"></a>今日数据</h5><ul>
-<li>昨日睡觉时间：22：30</li>
-<li>今日起床时间：7点</li>
-</ul>
-<h5 id="睡眠质量点评"><a href="#睡眠质量点评" class="headerlink" title="睡眠质量点评"></a>睡眠质量点评</h5><p>早上需要早起（其实也不早了）出门，是想早点睡的，但环境不是很好，23点之后才入睡。早上起来有点犯困。</p>
-<h5 id="有什么想法，想改进的地方"><a href="#有什么想法，想改进的地方" class="headerlink" title="有什么想法，想改进的地方"></a>有什么想法，想改进的地方</h5><p>连个简单写日志也”坚持”（笑来老师那里已经去除了“坚持”的概念）不了。。可以说是自控力太差，但终极原因，很可能是我脑子的问题，不够干净！没有建立正确的概念，没有意识到“每天写日志”对我来说有多重要！所以坚持不下来啊。如果我知道“每天写日志”对我来说比吃饭，睡觉更重要，我想就不会因“堕落”而“忘”写了。<br>从今天开始，每天想想，我为什么要写日志。</p>
-<h4 id="留言-amp-评论"><a href="#留言-amp-评论" class="headerlink" title="留言&amp;评论"></a>留言&amp;评论</h4><ul>
-<li>在电脑网页端可文章下方可直接留言（github帐号登陆）</li>
-<li>如在微信端打开，可打开以下链接，用github登陆再评论</li>
-<li><a href="https://github.com/luyh/luyh.github.io/issues/7" target="_blank" rel="external">https://github.com/luyh/luyh.github.io/issues/7</a></li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -645,40 +286,17 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>再累也要写日志</title>
-    <link href="http://yoursite.com/2017/07/14/2017/07/%E5%86%8D%E7%B4%AF%E4%B9%9F%E8%A6%81%E5%86%99%E6%97%A5%E5%BF%97/"/>
-    <id>http://yoursite.com/2017/07/14/2017/07/再累也要写日志/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-%E5%86%8D%E7%B4%AF%E4%B9%9F%E8%A6%81%E5%86%99%E6%97%A5%E5%BF%97/"/>
+    <id>http://luyh.github.io/日志/2017-07-再累也要写日志/</id>
     <published>2017-07-14T14:25:38.000Z</published>
     <updated>2017-07-14T14:36:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<h5 id="先唠叨下："><a href="#先唠叨下：" class="headerlink" title="先唠叨下："></a>先唠叨下：</h5><p>本想睡觉去，发现日志还没写。打开本本再写写</p>
-<blockquote>
-<p>再累也要写日志</p>
-</blockquote>
-<p>为什么呢？大概是想作个总结和记录吧，不然一天白过了</p>
-<h5 id="做了什么，有什么收获"><a href="#做了什么，有什么收获" class="headerlink" title="做了什么，有什么收获"></a>做了什么，有什么收获</h5><ul>
-<li><a href="https://show.gotokeep.com/usersdiary/589878798c26a32953b25b71/20170714" target="_blank" rel="external">健身26分钟</a>  ，有进步！基本恢复到之前运动强度，保持并且再接再励！<ul>
-<li><a href="https://show.gotokeep.com/users/589878798c26a32953b25b71" target="_blank" rel="external">keep中关注我</a>，一起锻炼吧！</li>
-</ul>
-</li>
-</ul>
-<h5 id="有什么没做到位，有什么遗憾"><a href="#有什么没做到位，有什么遗憾" class="headerlink" title="有什么没做到位，有什么遗憾"></a>有什么没做到位，有什么遗憾</h5><ul>
-<li>今天试图写篇《通往财富自由》的读后感。但写了一些花边，主体内容没墨水了。。。</li>
-<li>做事就是没重点</li>
-</ul>
-<h5 id="有什么想法，想改进的地方"><a href="#有什么想法，想改进的地方" class="headerlink" title="有什么想法，想改进的地方"></a>有什么想法，想改进的地方</h5><ul>
-<li>本来专栏文章是一星期消化一个概念的。但明显我自己和读者都有点贪杯，吃多嚼不烂啊。还是应该带大家老老实实的读。</li>
-</ul>
-<h4 id="睡眠记录"><a href="#睡眠记录" class="headerlink" title="睡眠记录"></a>睡眠记录</h4><p>昨日睡觉时间：23点<br>今日起床时间：7点30</p>
-<p>10点半睡好一点，比如现在！<br>明天要早起，要出差！</p>
-<p>bye了，晚安！</p>
-]]></content>
     
     <summary type="html">
     
@@ -689,35 +307,17 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>第一次正式给大家写文章</title>
-    <link href="http://yoursite.com/2017/07/14/2017/07/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%86%99%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/07/14/2017/07/第一次正式给大家写文章/</id>
+    <link href="http://luyh.github.io/uncategorized/2017-07-%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <id>http://luyh.github.io/uncategorized/2017-07-第一次正式给大家写文章/</id>
     <published>2017-07-14T12:02:00.000Z</published>
     <updated>2017-07-16T01:24:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="前面的废话"><a href="#前面的废话" class="headerlink" title="前面的废话"></a>前面的废话</h1><p>  最近一直折腾自己的blog，为了更好的分享文章，昨天还注册了个公众号。一直催着大家交作业，但自己不带好头写点“干货”就有说不过去了。</p>
-<p>  这里分享下我读前面4周的读后感。</p>
-<p>  最后唠叨下：</p>
-<blockquote>
-<p>以其说是给大家写文章，其实文章更多是写给我自己的,自己收获更大。</p>
-</blockquote>
-<h1 id="前面4周的读后感"><a href="#前面4周的读后感" class="headerlink" title="前面4周的读后感"></a>前面4周的读后感</h1><p>  前面先给大家整理了4周的内容：<br>  <a href="https://luyh.github.io/2017/07/09/road_to_the_wealth_toc/" target="_blank" rel="external">https://luyh.github.io/2017/07/09/road_to_the_wealth_toc/</a></p>
-<h2 id="注意力"><a href="#注意力" class="headerlink" title="注意力"></a>注意力</h2><p>我有没掉入三个大坑呢？</p>
-<ul>
-<li>凑热闹</li>
-<li>随大流</li>
-<li>操碎了别人的心肝</li>
-</ul>
-<h1 id="学习学习再学习"><a href="#学习学习再学习" class="headerlink" title="学习学习再学习"></a>学习学习再学习</h1><p>最后给大家推荐一个李笑来的订阅号-”学习学习再学习”（自己去订阅号搜索订阅）<br>附上-订阅号的<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzAxNzI4MTMwMw==&amp;hid=1&amp;sn=f303ba44635fdc357394360621f12355&amp;devicetype=android-23&amp;version=26050a39&amp;lang=zh_CN&amp;nettype=WIFI&amp;pass_ticket=eDJ%2BprGl0Pb6KOFEJIIQOq3BVarJJRQ5NSzKiKcATNE7HTKSJ%2BpnKkWKsgarzUeB&amp;wx_header=1&amp;scene=1" target="_blank" rel="external">精选文章</a></p>
-<p>里面有大量的“干货”，有时看了些文章，很想分享给大家，坐下来真要写点东西的时候又不知道写什么了。。。</p>
-<h1 id="交作业的方式（留言）"><a href="#交作业的方式（留言）" class="headerlink" title="交作业的方式（留言）"></a>交作业的方式（留言）</h1><p>之前让大家在公众号留言，今天发现后台消息只保存5天，所以不合适。公众号文章开通评论听说要原创写文章一年才有资格。<br>今天想个办法，能记录大家的成长，我这里附个链接，大家点开，用github登陆再评论。今天评论的链接在此：<br><a href="https://github.com/luyh/luyh.github.io/issues/6" target="_blank" rel="external">https://github.com/luyh/luyh.github.io/issues/6</a><br>点击链接也能看到大家的评论。（评论的内容有时能显示在blog文章之下）</p>
-]]></content>
     
     <summary type="html">
     
@@ -726,35 +326,16 @@
     </summary>
     
     
-      <category term="读后感" scheme="http://yoursite.com/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+      <category term="读后感" scheme="http://luyh.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>170713</title>
-    <link href="http://yoursite.com/2017/07/13/2017/07/record/"/>
-    <id>http://yoursite.com/2017/07/13/2017/07/record/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-record/"/>
+    <id>http://luyh.github.io/日志/2017-07-record/</id>
     <published>2017-07-13T14:30:15.000Z</published>
     <updated>2017-07-13T14:48:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<h5 id="先唠叨下："><a href="#先唠叨下：" class="headerlink" title="先唠叨下："></a>先唠叨下：</h5><p>每次想以日期命名写日志时候，总是想不起来今天是几月几号。。</p>
-<h5 id="做了什么，有什么收获"><a href="#做了什么，有什么收获" class="headerlink" title="做了什么，有什么收获"></a>做了什么，有什么收获</h5><ul>
-<li><p>注册了微信公众号<br>把文章链接布置了上去，是很丑很简陋，不过没人一开始就是好的。拉了几个小伙伴关注公众号，谢过各位捧场！</p>
-</li>
-<li><p><a href="https://show.gotokeep.com/usersdiary/589878798c26a32953b25b71/20170713" target="_blank" rel="external">健身16分钟</a>  </p>
-<ul>
-<li>停了两个星期，今天是个不错的开始</li>
-<li><a href="https://show.gotokeep.com/users/589878798c26a32953b25b71" target="_blank" rel="external">keep中关注我</a>，一起锻炼吧！</li>
-</ul>
-</li>
-</ul>
-<h5 id="有什么没做到位，有什么遗憾"><a href="#有什么没做到位，有什么遗憾" class="headerlink" title="有什么没做到位，有什么遗憾"></a>有什么没做到位，有什么遗憾</h5><ul>
-<li>折腾乱七八槽的，却没有静下心来读文章，也没有心得分享给大家</li>
-</ul>
-<h5 id="有什么想法，想改进的地方"><a href="#有什么想法，想改进的地方" class="headerlink" title="有什么想法，想改进的地方"></a>有什么想法，想改进的地方</h5><ul>
-<li>分享的文章自己先读过，再写出自己的思考与感想，再分享给大家，一方面督促自己阅读与思考，另一方面给大家能分享自己的心得体会。</li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -763,26 +344,17 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>travis博客自动部署</title>
-    <link href="http://yoursite.com/2017/07/12/2017/07/travis_build_hexo/"/>
-    <id>http://yoursite.com/2017/07/12/2017/07/travis_build_hexo/</id>
+    <link href="http://luyh.github.io/uncategorized/2017-07-travis-build-hexo/"/>
+    <id>http://luyh.github.io/uncategorized/2017-07-travis-build-hexo/</id>
     <published>2017-07-12T13:29:00.000Z</published>
     <updated>2017-07-16T08:35:14.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>将blog设置成两个分支，其中一个分支存储源文件，并设置travis自动部署。</p>
-<p>此篇即为测试布置是否成功。</p>
-<p>参考：</p>
-<ol>
-<li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="external">使用hexo，如果换了电脑怎么更新博客？</a></li>
-<li><a href="http://www.jianshu.com/p/93918de6fa2c" target="_blank" rel="external">Hexo使用Travis CI自动化部署</a></li>
-</ol>
-]]></content>
     
     <summary type="html">
     
@@ -799,23 +371,10 @@
   
   <entry>
     <title>开始写日志</title>
-    <link href="http://yoursite.com/2017/07/11/2017/07/170711_start_to_write_daily_record/"/>
-    <id>http://yoursite.com/2017/07/11/2017/07/170711_start_to_write_daily_record/</id>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-170711-start-to-write-daily-record/"/>
+    <id>http://luyh.github.io/日志/2017-07-170711-start-to-write-daily-record/</id>
     <published>2017-07-11T14:04:00.000Z</published>
     <updated>2017-07-13T14:22:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<ul>
-<li>做了什么，有什么收获：<ul>
-<li>晚上“好累”，控制不住，看了电影《萨利机长》-1.5小时，收获了感动，还是可以推荐，可以看一下。但其实可以做些更重要的事，道理都懂。。</li>
-<li>昨天折腾一晚上没给blog加上评论，今天回来花了10分钟装上了（测试花很多时间），遗憾的是在微信上查看和评论不方便，</li>
-<li>写下每天日志，从今天开始</li>
-</ul>
-</li>
-<li>感想：分享了《通往财富自由之路》的文章，要求小伙伴们写读后感。结果我自己都没写。。。不能落下。</li>
-<li>健身：无</li>
-<li>计划：折腾下blog，设置下主页</li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -826,27 +385,17 @@
     
     </summary>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>花钱请你读-财富自由之路-阅读说明</title>
-    <link href="http://yoursite.com/2017/07/09/2017/07/road_to_the_wealth_explanation/"/>
-    <id>http://yoursite.com/2017/07/09/2017/07/road_to_the_wealth_explanation/</id>
+    <link href="http://luyh.github.io/uncategorized/2017-07-road-to-the-wealth-explanation/"/>
+    <id>http://luyh.github.io/uncategorized/2017-07-road-to-the-wealth-explanation/</id>
     <published>2017-07-09T14:26:00.000Z</published>
     <updated>2017-07-09T14:30:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>文章要在微信中打开才能阅读。</p>
-<p>（第一次打开要用微信授权得到app登录。）</p>
-<p>每篇文章均限制10个或20个名额，先抢先得，抢到后可重复阅读。（什么都不说，我自己先占个坑）</p>
-<p>持续更新，共一年52周52个主题。每周主题下各有五六篇文章。</p>
-<p>觉得好的自己去订阅，199元/年。</p>
-<p>不用谢我，我只是个搬运工。感谢《得到》，让我有机会成为李笑来的贵人。</p>
-<hr>
-<p>点击查看</p>
-]]></content>
     
     <summary type="html">
     
@@ -862,24 +411,10 @@
   
   <entry>
     <title>第0周-开始之前</title>
-    <link href="http://yoursite.com/2017/07/09/2017/07/week0-before_start/"/>
-    <id>http://yoursite.com/2017/07/09/2017/07/week0-before_start/</id>
+    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-week0-before-start/"/>
+    <id>http://luyh.github.io/财富自由/2017-07-week0-before-start/</id>
     <published>2017-07-09T12:29:00.000Z</published>
     <updated>2017-07-09T13:01:46.000Z</updated>
-    
-    <content type="html"><![CDATA[
-<p>以下链接，需要在微信上打开阅读：</p>
-<ul>
-<li><a href="https://m.igetget.com/share/column/cid/3" target="_blank" rel="external">得到订阅专栏：通往财富自由之路</a></li>
-<li><a href="https://m.igetget.com/subscribe/E79nMJmjRx6qE9G01NYZBvKW35wrAJL0LiRHvnPDkd84yOn7ozrVlbgAaLXe2Xao" target="_blank" rel="external">我为什么要开这个专栏</a></li>
-<li><a href="https://m.igetget.com/subscribe/A5Y9362E8xy4o5NZrlABO1zLvWPyY1mMmskHm7P0mdXeKb7Mg9JDGVYjnRkaqNl7" target="_blank" rel="external">你真的理解什么是“财富自由”吗？</a></li>
-<li><a href="https://m.igetget.com/subscribe/rJEOXv8L27MDEAer0Jx9Goa6O4pLXYBqBHkHknpkB5zZnbNlmgR3YKd1WVqjyyX0" target="_blank" rel="external">出售时间之前你要牢记的三条铁律（上）</a><ul>
-<li><a href="https://m.igetget.com/subscribe/96XVXYN679Eo5OzqvbeBJgDyGaQe2M595HOHvzPW3VdKjkAmr08lZnML2x4R1bq3" target="_blank" rel="external">出售时间之前你要牢记的三条铁律（下）</a></li>
-<li><a href="https://m.igetget.com/subscribe/RGZEO4KGBxDaeoXrMy27Al60RgP90l474iZHlMQv51L3Jdk9VqmNYzZWb8jnEYr2" target="_blank" rel="external">开始前的正式邀请:请与我一起生活一年</a>   </li>
-</ul>
-</li>
-</ul>
-]]></content>
     
     <summary type="html">
     
@@ -890,7 +425,7 @@
     
     </summary>
     
-      <category term="财富自由" scheme="http://yoursite.com/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
+      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
   </entry>
