@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luyh.github.io/"/>
-  <updated>2017-08-06T07:31:48.000Z</updated>
+  <updated>2017-08-18T14:14:34.000Z</updated>
   <id>http://luyh.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识区块链定投</title>
+    <link href="http://luyh.github.io/%E5%8C%BA%E5%9D%97%E9%93%BE/2017-08-18-SiaCoin%E7%9A%84%E8%AE%A4%E8%AF%86/"/>
+    <id>http://luyh.github.io/区块链/2017-08-18-SiaCoin的认识/</id>
+    <published>2017-08-18T13:29:00.000Z</published>
+    <updated>2017-08-18T14:14:34.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我从笑来老师分享，了解“&lt;a href=&quot;http://xiaolai.co/search&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;笑来搜&lt;/a&gt;”的开发作者金马老师（对，也是老师），看到他公众号一篇文章《&lt;a href=&quot;http://laidu.
+    
+    </summary>
+    
+      <category term="区块链" scheme="http://luyh.github.io/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="定投" scheme="http://luyh.github.io/tags/%E5%AE%9A%E6%8A%95/"/>
+    
+  </entry>
   
   <entry>
     <title>回来打个招呼</title>
@@ -420,25 +440,6 @@
     
     
       <category term="读后感" scheme="http://luyh.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>170713</title>
-    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-record/"/>
-    <id>http://luyh.github.io/日志/2017-07-record/</id>
-    <published>2017-07-13T14:30:15.000Z</published>
-    <updated>2017-07-13T14:48:34.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h5 id=&quot;先唠叨下：&quot;&gt;&lt;a href=&quot;#先唠叨下：&quot; class=&quot;headerlink&quot; title=&quot;先唠叨下：&quot;&gt;&lt;/a&gt;先唠叨下：&lt;/h5&gt;&lt;p&gt;每次想以日期命名写日志时候，总是想不起来今天是几月几号。。&lt;/p&gt;
-&lt;h5 id=&quot;做了什么，有什么收获&quot;&gt;&lt;a h
-    
-    </summary>
-    
-      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
     
   </entry>
   
