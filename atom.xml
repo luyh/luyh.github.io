@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luyh.github.io/"/>
-  <updated>2017-08-18T14:14:34.000Z</updated>
+  <updated>2017-08-20T08:02:13.000Z</updated>
   <id>http://luyh.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>区块链市值</title>
+    <link href="http://luyh.github.io/%E5%8C%BA%E5%9D%97%E9%93%BE/2017-08-20-%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B8%82%E5%80%BC/"/>
+    <id>http://luyh.github.io/区块链/2017-08-20-区块链市值/</id>
+    <published>2017-08-20T07:42:00.000Z</published>
+    <updated>2017-08-20T08:02:13.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;各币市值&quot;&gt;&lt;a href=&quot;#各币市值&quot; class=&quot;headerlink&quot; title=&quot;各币市值&quot;&gt;&lt;/a&gt;各币市值&lt;/h2&gt;&lt;p&gt;区块链各币市值可以在sosobtc的“币种市值”中查看，目前我比知道的几个币市值如下（RMB）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+    </summary>
+    
+      <category term="区块链" scheme="http://luyh.github.io/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>初识区块链定投</title>
@@ -422,24 +442,6 @@
     
       <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>第一次正式给大家写文章</title>
-    <link href="http://luyh.github.io/uncategorized/2017-07-%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%BC%8F%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%86%99%E6%96%87%E7%AB%A0/"/>
-    <id>http://luyh.github.io/uncategorized/2017-07-第一次正式给大家写文章/</id>
-    <published>2017-07-14T12:02:00.000Z</published>
-    <updated>2017-07-16T01:24:05.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;前面的废话&quot;&gt;&lt;a href=&quot;#前面的废话&quot; class=&quot;headerlink&quot; title=&quot;前面的废话&quot;&gt;&lt;/a&gt;前面的废话&lt;/h1&gt;&lt;p&gt;  最近一直折腾自己的blog，为了更好的分享文章，昨天还注册了个公众号。一直催着大家交作业，但自己不带好头写点“干
-    
-    </summary>
-    
-    
-      <category term="读后感" scheme="http://luyh.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
