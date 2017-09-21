@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luyh.github.io/"/>
-  <updated>2017-09-21T13:32:50.000Z</updated>
+  <updated>2017-09-21T14:39:06.000Z</updated>
   <id>http://luyh.github.io/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BTC钱包-blockchain wallet教程</title>
+    <link href="http://luyh.github.io/%E5%8C%BA%E5%9D%97%E9%93%BE/2017-09-21-BTC%E9%92%B1%E5%8C%85%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://luyh.github.io/区块链/2017-09-21-BTC钱包介绍/</id>
+    <published>2017-09-21T13:48:00.000Z</published>
+    <updated>2017-09-21T14:39:06.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;写这篇文章，是为了帮助几个朋友安装钱包，然后我帮他们买一点点BTC转过去。本文最好在本博客（luyh.github.io)阅读，公众号很多链接显示不出来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;首先，分享一篇文章来自马俊楠 题目：数字资产安全之
+    
+    </summary>
+    
+      <category term="区块链" scheme="http://luyh.github.io/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>李笑来：《问答02丨彻底戒掉你的抱怨》泓请你免费读</title>
@@ -415,27 +436,6 @@
 &lt;p&gt;我为什么健身：&lt;/p&gt;
 &lt;ul&gt;
 &lt;
-    
-    </summary>
-    
-      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>跑起来</title>
-    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-19-%E8%B7%91%E8%B5%B7%E6%9D%A5/"/>
-    <id>http://luyh.github.io/日志/2017-07-19-跑起来/</id>
-    <published>2017-07-19T14:07:00.000Z</published>
-    <updated>2017-07-19T14:21:59.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;健身&quot;&gt;&lt;a href=&quot;#健身&quot; class=&quot;headerlink&quot; title=&quot;健身&quot;&gt;&lt;/a&gt;健身&lt;/h3&gt;&lt;p&gt;买的小米手环连不上手机，差评。&lt;br&gt;退货，换上乐心手环，不要让我失望啊。&lt;/p&gt;
-&lt;p&gt;今天开跑了。绕工业区路了一圈。在keep跑前先动态
     
     </summary>
     
