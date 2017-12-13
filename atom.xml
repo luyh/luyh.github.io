@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luyh.github.io/"/>
-  <updated>2017-12-06T13:11:28.000Z</updated>
+  <updated>2017-12-13T14:49:03.000Z</updated>
   <id>http://luyh.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>事件日志EventLog001</title>
+    <link href="http://luyh.github.io/EventLog/2017-12-13-%E4%BA%8B%E4%BB%B6%E6%97%A5%E5%BF%97EventLog001/"/>
+    <id>http://luyh.github.io/EventLog/2017-12-13-事件日志EventLog001/</id>
+    <published>2017-12-13T14:26:00.000Z</published>
+    <updated>2017-12-13T14:49:03.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前些日子加入了007写作群，此篇算是“应付”第一次作业吧。&lt;/p&gt;
+&lt;p&gt;事件日志EventLog来自李笑来《财富自由之路》书箱赠送的一册子，册子我还不舍不得写上字呢，在这里先练练笔吧。&lt;/p&gt;
+&lt;p&gt;标题加了编号001，特地前面加多了两个0，编号位数够可以写三年！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="EventLog" scheme="http://luyh.github.io/categories/EventLog/"/>
+    
+    
+      <category term="007作业" scheme="http://luyh.github.io/tags/007%E4%BD%9C%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>致妻子：假如我有一天不在了</title>
@@ -415,29 +437,6 @@
       <category term="音频" scheme="http://luyh.github.io/tags/%E9%9F%B3%E9%A2%91/"/>
     
       <category term="元认知" scheme="http://luyh.github.io/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>泡沫轴到了</title>
-    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-21-%E6%B3%A1%E6%B2%AB%E8%BD%B4%E5%88%B0%E4%BA%86/"/>
-    <id>http://luyh.github.io/日志/2017-07-21-泡沫轴到了/</id>
-    <published>2017-07-21T14:39:00.000Z</published>
-    <updated>2017-07-21T15:00:18.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;都不知道起什么标题了，我也不是标题党，随便了。&lt;/p&gt;
-&lt;p&gt;昨晚健身后回来，竟然太兴奋睡不着，水喝多了也有关系，没睡着起来上了两次厕所。&lt;/p&gt;
-&lt;p&gt;今天上班实在是累啊。&lt;/p&gt;
-&lt;p&gt;现在主要是要打基础，注重心肺，减脂（肚子）和韧性。增肌是锻炼附带的吧，不刻意训练。&lt;
-    
-    </summary>
-    
-      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="健身" scheme="http://luyh.github.io/tags/%E5%81%A5%E8%BA%AB/"/>
     
   </entry>
   
