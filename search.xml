@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[事件日志EventLog002]]></title>
+    <url>%2FEventLog%2F2017-12-14-EventLog002%2F</url>
+    <content type="text"><![CDATA[事项： 序号 事项 耗时 1. 早上6点40起床，晨间瑜伽20分钟，冥想3分钟，英语朗读打卡晨读20分钟 45分钟 2. 上班硬件电路仿真调度 8小时 3. 晚上加班找硬件调度问题 3小时 5. 晚上10点45EventLog及007写作作业。 15分钟 复盘： 对被逼加班挺反感的，也累与其低效加班，不如多运动+好好休息，提高精力 明天一定要去健身]]></content>
+      <categories>
+        <category>EventLog</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[事件日志EventLog001]]></title>
     <url>%2FEventLog%2F2017-12-13-%E4%BA%8B%E4%BB%B6%E6%97%A5%E5%BF%97EventLog001%2F</url>
     <content type="text"><![CDATA[前些日子加入了007写作群，此篇算是“应付”第一次作业吧。 事件日志EventLog来自李笑来《财富自由之路》书箱赠送的一册子，册子我还不舍不得写上字呢，在这里先练练笔吧。 标题加了编号001，特地前面加多了两个0，编号位数够可以写三年！ 事项： 序号 事项 耗时 1. 早上7点多起床，晨间瑜伽20分钟，冥想5分钟，英语朗读打卡晨读15分钟 40分钟 2. 上班完成温腔温控项目的方案及硬件设计 半天多 3. 下午完成新主板固件调试NandFlash的读写文件测试 小半天 4. 晚上去健身房踩动感单车40分钟，瑜伽课1小时 2小时 5. 晚上10点写作，完成EventLog及007写作作业。 半小时 复盘： 今天本来想写投资复盘的，太觉得水平太渣，不太好意思写 投资复盘是必要的，不用对别人负责，对自己负责就可以了。 今天完成的情况还算满意，记事也挺顺利。明天继续保持，不过下次就不好意思再拿来当007作业了。]]></content>
@@ -220,8 +228,8 @@
         <category>财富自由</category>
       </categories>
       <tags>
-        <tag>多维竞争</tag>
         <tag>音频</tag>
+        <tag>多维竞争</tag>
       </tags>
   </entry>
   <entry>
@@ -232,8 +240,8 @@
         <category>财富自由</category>
       </categories>
       <tags>
-        <tag>音频</tag>
         <tag>落后</tag>
+        <tag>音频</tag>
       </tags>
   </entry>
   <entry>
