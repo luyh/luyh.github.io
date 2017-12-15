@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luyh.github.io/"/>
-  <updated>2017-12-14T15:01:26.000Z</updated>
+  <updated>2017-12-15T14:35:41.000Z</updated>
   <id>http://luyh.github.io/</id>
   
   <author>
@@ -14,6 +14,102 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EventLog003</title>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/EventLog/EventLog003/"/>
+    <id>http://luyh.github.io/日志/EventLog/EventLog003/</id>
+    <published>2017-12-15T14:31:08.000Z</published>
+    <updated>2017-12-15T14:35:41.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;事项：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;序号&lt;/th&gt;
+&lt;th&gt;事项&lt;/th&gt;
+&lt;th&gt;耗时&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.&lt;/td&gt;
+&lt;td&gt;昨晚晚睡了，早上7点20起床，没做冥想和瑜伽，英语朗读打
+    
+    </summary>
+    
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="EventLog" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/EventLog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/EventLog/test-1/"/>
+    <id>http://luyh.github.io/日志/EventLog/test-1/</id>
+    <published>2017-12-15T14:29:57.000Z</published>
+    <updated>2017-12-15T14:29:57.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;事项：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;序号&lt;/th&gt;
+&lt;th&gt;事项&lt;/th&gt;
+&lt;th&gt;耗时&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.&lt;/td&gt;
+&lt;td&gt;早上6点40起床，晨间瑜伽20分钟，冥想3分钟，英语朗读
+    
+    </summary>
+    
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="EventLog" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/EventLog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/EventLog/test/"/>
+    <id>http://luyh.github.io/日志/EventLog/test/</id>
+    <published>2017-12-15T14:28:44.000Z</published>
+    <updated>2017-12-15T14:28:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;事项：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;序号&lt;/th&gt;
+&lt;th&gt;事项&lt;/th&gt;
+&lt;th&gt;耗时&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.&lt;/td&gt;
+&lt;td&gt;早上6点40起床，晨间瑜伽20分钟，冥想3分钟，英语朗读
+    
+    </summary>
+    
+      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="EventLog" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/EventLog/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>事件日志EventLog002</title>
@@ -379,72 +475,6 @@
 &lt;li&gt;&lt;a h
     
     </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>音频13-我是如何错过一次升级的</title>
-    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0-117626-71642-thhg5w-a95kejc3di/"/>
-    <id>http://luyh.github.io/财富自由/2017-07-微信公众平台-117626-71642-thhg5w-a95kejc3di/</id>
-    <published>2017-07-26T13:50:00.000Z</published>
-    <updated>2017-07-26T14:44:01.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“听过很多道理，依旧过不好一生”的原因是：我们对很多事时常有的“感觉没关系”的错觉，这也是自证预言。如果你主动建立关系，那么就会“事实上有关系”，不再会错过。&lt;/p&gt;
-&lt;p&gt;今天分享的主题是“错过”&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;微信中点击&lt;a href=&quot;ht
-    
-    </summary>
-    
-      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
-    
-    
-      <category term="微信公众号" scheme="http://luyh.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
-    
-      <category term="错过" scheme="http://luyh.github.io/tags/%E9%94%99%E8%BF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>停了几天没写博客今天续上</title>
-    <link href="http://luyh.github.io/%E6%97%A5%E5%BF%97/2017-07-24-%E5%81%9C%E4%BA%86%E5%87%A0%E5%A4%A9%E6%B2%A1%E5%86%99%E5%8D%9A%E5%AE%A2%E4%BB%8A%E5%A4%A9%E7%BB%AD%E4%B8%8A/"/>
-    <id>http://luyh.github.io/日志/2017-07-24-停了几天没写博客今天续上/</id>
-    <published>2017-07-24T14:36:00.000Z</published>
-    <updated>2017-07-25T15:14:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;关于健身&quot;&gt;&lt;a href=&quot;#关于健身&quot; class=&quot;headerlink&quot; title=&quot;关于健身&quot;&gt;&lt;/a&gt;关于健身&lt;/h3&gt;&lt;p&gt;俺算是锻炼成隐了，自从办了卡已经连续5天去了健身房，每次1-1.5小时。没有很系统训练，主要以有氧运动为主，跑步或动感单车半
-    
-    </summary>
-    
-      <category term="日志" scheme="http://luyh.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="随笔" scheme="http://luyh.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音频10|如何有效提高元认知能力</title>
-    <link href="http://luyh.github.io/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/2017-07-23-%E9%9F%B3%E9%A2%9110-%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E6%8F%90%E9%AB%98%E5%85%83%E8%AE%A4%E7%9F%A5%E8%83%BD%E5%8A%9B/"/>
-    <id>http://luyh.github.io/财富自由/2017-07-23-音频10-如何有效提高元认知能力/</id>
-    <published>2017-07-23T08:12:00.000Z</published>
-    <updated>2017-07-23T09:30:16.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;点击以下链接，查看专栏文章&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://m.igetget.com/subscribe/4zYqdl97MBaLOyV2KbZmRNov0Px6vAzAUjH6NopJExz3rXe5gn8GAk14D6YWjOq2&quot; tar
-    
-    </summary>
-    
-      <category term="财富自由" scheme="http://luyh.github.io/categories/%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1/"/>
     
     
   </entry>
